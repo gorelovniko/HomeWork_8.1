@@ -37,11 +37,11 @@
 
 ### Решение 1
 
-1. ![](https://github.com/gorelovniko/HomeWork_8.1/blob/main/img/8.2_1-2.JPG)
-2. <img src = "img/8.2_1-2.jpg" width = 100%>
-3. <img src = "img/8.2_2.jpg" width = 100%>
-4. <img src = "img/8.2_3.jpg" width = 100%>
-5. <img src = "img/8.2_4.jpg" width = 100%>
+1. ![](https://github.com/gorelovniko/HomeWork_8.1/blob/main/img/8.2_1-1.JPG)
+2. ![](https://github.com/gorelovniko/HomeWork_8.1/blob/main/img/8.2_1-2.JPG)
+3. <![](https://github.com/gorelovniko/HomeWork_8.1/blob/main/img/8.2_2.JPG)
+4. ![](https://github.com/gorelovniko/HomeWork_8.1/blob/main/img/8.2_3.JPG)
+5. ![](https://github.com/gorelovniko/HomeWork_8.1/blob/main/img/8.2_4.JPG)
 
 ---
 
