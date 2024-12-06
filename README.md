@@ -37,7 +37,7 @@
 
 ### Решение 1
 
-1. (https://github.com/gorelovniko/HomeWork_8.1/blob/main/img/8.2_1-2.JPG)
+1. ![](https://github.com/gorelovniko/HomeWork_8.1/blob/main/img/8.2_1-2.JPG)
 2. <img src = "img/8.2_1-2.jpg" width = 100%>
 3. <img src = "img/8.2_2.jpg" width = 100%>
 4. <img src = "img/8.2_3.jpg" width = 100%>
