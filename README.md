@@ -39,7 +39,7 @@
 
 1. ![](https://github.com/gorelovniko/HomeWork_8.1/blob/main/img/8.2_1-1.JPG)
 2. ![](https://github.com/gorelovniko/HomeWork_8.1/blob/main/img/8.2_1-2.JPG)
-3. <![](https://github.com/gorelovniko/HomeWork_8.1/blob/main/img/8.2_2.JPG)
+3. ![](https://github.com/gorelovniko/HomeWork_8.1/blob/main/img/8.2_2.JPG)
 4. ![](https://github.com/gorelovniko/HomeWork_8.1/blob/main/img/8.2_3.JPG)
 5. ![](https://github.com/gorelovniko/HomeWork_8.1/blob/main/img/8.2_4.JPG)
 
@@ -58,7 +58,11 @@
 
 ### Решение 2
 
-
+1. ![](https://github.com/gorelovniko/HomeWork_8.2/blob/main/img/8.2_Task2_1.JPG)
+2. ![](https://github.com/gorelovniko/HomeWork_8.2/blob/main/img/8.2_Task2_2.JPG)
+3. ![](https://github.com/gorelovniko/HomeWork_8.2/blob/main/img/8.2_Task2_3.JPG)
+4. ![](https://github.com/gorelovniko/HomeWork_8.2/blob/main/img/8.2_Task2_4.JPG)
+5. ![](https://github.com/gorelovniko/HomeWork_8.2/blob/main/img/8.2_Task2_5.JPG)
 
 ---
 
