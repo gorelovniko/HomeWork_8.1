@@ -81,3 +81,11 @@
 
 ### Решение 3
 
+1. ![](https://github.com/gorelovniko/HomeWork_8.2/blob/main/img/8.2_Task3_1.JPG)
+2. ![](https://github.com/gorelovniko/HomeWork_8.2/blob/main/img/8.2_Task3_2.JPG)
+3. ![](https://github.com/gorelovniko/HomeWork_8.2/blob/main/img/8.2_Task3_3.JPG)
+4. ![](https://github.com/gorelovniko/HomeWork_8.2/blob/main/img/8.2_Task3_4.JPG)
+5. ![](https://github.com/gorelovniko/HomeWork_8.2/blob/main/img/8.2_Task3_5.JPG)
+5. ![](https://github.com/gorelovniko/HomeWork_8.2/blob/main/img/8.2_Task3_6.JPG)
+
+---
